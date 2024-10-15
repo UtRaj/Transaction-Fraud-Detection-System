@@ -5,6 +5,7 @@ This repository contains a Python code for detecting fraudulent transactions in 
 **Dataset:**
 
 The code uses a dataset containing financial transaction details, including transaction type, amount, origin and destination accounts, and a flag indicating whether the transaction is fraudulent.
+The dataset has been retrieved from https://www.kaggle.com/datasets/ealaxi/paysim1?resource=download.
 
 **Methodology:**
 
