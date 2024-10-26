@@ -1,4 +1,4 @@
-# Financial Fraud Detection System
+# Transaction Fraud Detection System
 
 This repository contains a Python code for detecting fraudulent transactions in a financial dataset using the XGBoost algorithm.
 
